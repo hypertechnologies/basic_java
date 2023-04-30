@@ -28,6 +28,7 @@ public class variables {
         char myChar = 'A';
         System.out.println(myChar);
 
+
     }
 
 
